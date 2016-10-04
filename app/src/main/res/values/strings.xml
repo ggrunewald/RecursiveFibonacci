@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FibonacciRecursivo</string>
+    <string name="fibonacci">EXECUTAR FIBONACCI</string>
+    <string name="indice">Índice</string>
+</resources>
